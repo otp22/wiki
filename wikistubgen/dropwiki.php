@@ -1,3 +1,6 @@
+# wiki stub generator
+# aquinas 2014
+
 <html>
 <head>
 <title>Wiki Template Generator</title>
