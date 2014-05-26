@@ -80,8 +80,8 @@
          . $items . '|' . $people . '|type=' . $type . '|status=' . $status . '|foundon=' . $date . '}}';
 
          echo "<br/><br/>";
-         echo "'''" . $location . " drop''' was a [[" . $type . " drops/" . strtolower($type) . " drops]] found on " . $date 
-         . " by " . $people . " <Br/>";
+         echo "'''" . $location . " drop''' was a ''" . $type . " drop'' " . 
+         "found on " . $date . " by " . $people . " <Br/>";
          
          echo nl2br($body) . "<br/>";
 
